@@ -14,7 +14,7 @@ public class CalAverage {
               
 ~~~THERE IS SOME INVISIBLE CODE HERE~~~
 
-String st ="SELECT AVE(Age) from PLAYERS";
+String st ="SELECT AVG(Age) from PLAYERS";
 stmt.executeUpdate(st);
 
 ~~~THERE IS SOME INVISIBLE CODE HERE~~~
